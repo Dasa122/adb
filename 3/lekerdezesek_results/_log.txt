@@ -1,0 +1,11 @@
+source: 3/lekerdezesek.sql   format: csv
+01  no result set  (nothing written)
+02  ok  2 row(s)  -> 02_select_husok.csv
+03  ok  1 row(s)  -> 03_select_husok.csv
+04  ok  1 row(s)  -> 04_select_husok.csv
+05  ok  2 row(s)  -> 05_select_husok.csv
+06  ok  2 row(s)  -> 06_select_tejtermekek.csv
+07  no result set  (nothing written)
+08  ok  1 row(s)  -> 08_select_atlag_tejtermek_ar.csv
+09  ok  1 row(s)  -> 09_select_zoldsegek.csv
+10  ok  2 row(s)  -> 10_select_zoldsegek.csv

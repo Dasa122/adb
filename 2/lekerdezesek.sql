@@ -18,3 +18,5 @@ WHERE tapasztalat > 10;
 SELECT terem_szam, kapacitas
 FROM Tantermek
 ORDER BY kapacitas DESC;
+
+SELECT 
